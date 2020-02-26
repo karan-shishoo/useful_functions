@@ -50,4 +50,5 @@ d.next = e
 
 print(print_nodes(a))
 print(print_nodes(reverse_linked_list(a)))
-#Made by Karan Shishoo
+
+#Code written by Karan Shishoo
